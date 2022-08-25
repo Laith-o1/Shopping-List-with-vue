@@ -8,9 +8,9 @@ export default {
       newItem: "",
       newItemHighPriority: false,
       items: [
-        { id: 1, label: "10 milk", purchased: true, highPriority: false },
-        { id: 2, label: "20 eggs", purchased: false, highPriority: true },
-        { id: 3, label: "30 bread", purchased: false, highPriority: false },
+       // { id: 1, label: "10 milk", purchased: true, highPriority: false },
+       // { id: 2, label: "20 eggs", purchased: false, highPriority: true },
+       // { id: 3, label: "30 bread", purchased: false, highPriority: false },
       ]
     }
   },
